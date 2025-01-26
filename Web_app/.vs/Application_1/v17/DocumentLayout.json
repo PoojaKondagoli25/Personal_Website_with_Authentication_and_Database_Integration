@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNT\\Web based development\\Application_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|d:\\unt\\web based development\\application_1\\application_1\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\deletesuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\deletesuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\loginsuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\loginsuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\loginsuccess.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\loginsuccess.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\updateaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\updateaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\updateaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\updateaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\regsuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\regsuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\experience.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\experience.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\example.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\example.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\certifications.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\certifications.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\skills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\skills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\education.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\education.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|D:\\UNT\\Web based development\\Application_1\\application_1\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DD0A4B13-59E9-4E44-972D-3DF1FE1C282C}|Application_1\\Application_1.csproj|solutionrelative:application_1\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.aspx.cs",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Delete.aspx.cs",
+              "RelativeDocumentMoniker": "Application_1\\Delete.aspx.cs",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Delete.aspx.cs",
+              "RelativeToolTip": "Application_1\\Delete.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:28:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteSuccess.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\DeleteSuccess.aspx",
+              "RelativeDocumentMoniker": "Application_1\\DeleteSuccess.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\DeleteSuccess.aspx",
+              "RelativeToolTip": "Application_1\\DeleteSuccess.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-19T01:27:59.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Delete.aspx",
+              "RelativeDocumentMoniker": "Application_1\\Delete.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Delete.aspx",
+              "RelativeToolTip": "Application_1\\Delete.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-19T01:21:26.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.aspx.cs",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Update.aspx.cs",
+              "RelativeDocumentMoniker": "Application_1\\Update.aspx.cs",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Update.aspx.cs",
+              "RelativeToolTip": "Application_1\\Update.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:03:27.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Update.aspx",
+              "RelativeDocumentMoniker": "Application_1\\Update.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Update.aspx",
+              "RelativeToolTip": "Application_1\\Update.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-12T02:36:40.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateAccount.aspx.cs",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\UpdateAccount.aspx.cs",
+              "RelativeDocumentMoniker": "Application_1\\UpdateAccount.aspx.cs",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\UpdateAccount.aspx.cs",
+              "RelativeToolTip": "Application_1\\UpdateAccount.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:26:51.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateAccount.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\UpdateAccount.aspx",
+              "RelativeDocumentMoniker": "Application_1\\UpdateAccount.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\UpdateAccount.aspx",
+              "RelativeToolTip": "Application_1\\UpdateAccount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-12T01:11:19.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Registration.aspx",
+              "RelativeDocumentMoniker": "Application_1\\Registration.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Registration.aspx",
+              "RelativeToolTip": "Application_1\\Registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-05T01:04:28.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegSuccess.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\RegSuccess.aspx",
+              "RelativeDocumentMoniker": "Application_1\\RegSuccess.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\RegSuccess.aspx",
+              "RelativeToolTip": "Application_1\\RegSuccess.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-05T01:31:16.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Application_1\\Login.aspx.cs",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Login.aspx.cs",
+              "RelativeToolTip": "Application_1\\Login.aspx.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwGQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:32:49.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "Application_1\\Registration.aspx.cs",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Registration.aspx.cs",
+              "RelativeToolTip": "Application_1\\Registration.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:20:39.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginSuccess.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\LoginSuccess.aspx",
+              "RelativeDocumentMoniker": "Application_1\\LoginSuccess.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\LoginSuccess.aspx",
+              "RelativeToolTip": "Application_1\\LoginSuccess.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T01:51:22.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginSuccess.aspx.cs",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\LoginSuccess.aspx.cs",
+              "RelativeDocumentMoniker": "Application_1\\LoginSuccess.aspx.cs",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\LoginSuccess.aspx.cs",
+              "RelativeToolTip": "Application_1\\LoginSuccess.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:55:02.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Web.config",
+              "RelativeDocumentMoniker": "Application_1\\Web.config",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Web.config",
+              "RelativeToolTip": "Application_1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-02T19:08:18.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Login.aspx",
+              "RelativeDocumentMoniker": "Application_1\\Login.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Login.aspx",
+              "RelativeToolTip": "Application_1\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T02:09:47.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Site1.Master",
+              "RelativeDocumentMoniker": "Application_1\\Site1.Master",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Site1.Master",
+              "RelativeToolTip": "Application_1\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-17T01:59:59.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Education.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Education.aspx",
+              "RelativeDocumentMoniker": "Application_1\\Education.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Education.aspx",
+              "RelativeToolTip": "Application_1\\Education.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T04:18:07.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Experience.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Experience.aspx",
+              "RelativeDocumentMoniker": "Application_1\\Experience.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Experience.aspx",
+              "RelativeToolTip": "Application_1\\Experience.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-21T20:44:21.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Example.aspx.cs",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Example.aspx.cs",
+              "RelativeDocumentMoniker": "Application_1\\Example.aspx.cs",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Example.aspx.cs",
+              "RelativeToolTip": "Application_1\\Example.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:10:43.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Skills.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Skills.aspx",
+              "RelativeDocumentMoniker": "Application_1\\Skills.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Skills.aspx",
+              "RelativeToolTip": "Application_1\\Skills.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T04:18:29.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Application_1\\Default.aspx.cs",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Default.aspx.cs",
+              "RelativeToolTip": "Application_1\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:26:39.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Certifications.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Certifications.aspx",
+              "RelativeDocumentMoniker": "Application_1\\Certifications.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Certifications.aspx",
+              "RelativeToolTip": "Application_1\\Certifications.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T04:05:02.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Default.aspx",
+              "RelativeDocumentMoniker": "Application_1\\Default.aspx",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\Default.aspx",
+              "RelativeToolTip": "Application_1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-17T02:10:28.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\UNT\\Web based development\\Application_1\\Application_1\\site.css",
+              "RelativeDocumentMoniker": "Application_1\\site.css",
+              "ToolTip": "D:\\UNT\\Web based development\\Application_1\\Application_1\\site.css",
+              "RelativeToolTip": "Application_1\\site.css",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-17T02:08:07.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

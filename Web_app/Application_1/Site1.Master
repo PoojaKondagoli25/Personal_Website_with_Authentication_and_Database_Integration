@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Pooja Kondagoli</title>
+    <link href="site.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        h1 {
+            margin-bottom: 0px;
+        }
+        .auto-style1 {
+            margin-top: 0px;
+        }
+        header {
+            margin-bottom: 0px; 
+            padding: 10px 0; 
+            height: 100px; 
+            display: flex; 
+            flex-direction: column; 
+            justify-content: center; 
+            text-align: center; 
+        }
+        nav {
+            padding-top: 20px; /* Space between header and nav */
+        }
+        /* Add styles for hover effect */
+        .icon {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .icon:hover {
+            transform: scale(1.1); /* Enlarge icon slightly */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow on hover */
+        }
+    </style>
+</head>
+<body>
+<header id="header">
+    <h1 aria-dropeffect="popup">Pooja Kondagoli</h1>
+    <h4 class="auto-style1" style="color: #000000; font-weight: normal;">(945) 300 9576 . poojakondagoli25@gmail.com</h4>
+</header>
+<nav id="nav">
+    <ul>
+        <li><a href="Default.aspx" style="color: #000000">About</a></li>
+        <li><a href="Experience.aspx" style="color: #000000">Experience</a></li>
+        <li><a href="Education.aspx" style="color: #000000">Education</a></li>
+        <li><a href="Skills.aspx" style="color: #000000">Skills</a></li>
+        <li><a href="Certifications.aspx" style="color: #000000">Certification</a></li>
+        <li><a href="Login.aspx" style="color: #000000">Login</a></li>
+        <li><a href="Registration.aspx" style="color: #000000">Registration</a></li>
+        
+    </ul>
+</nav>
+<form id="form1" runat="server">
+    <div id="con">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+</div>
+    <aside id="side">
+        <h2>Contact</h2>
+        <p>
+            <a href="https://www.linkedin.com/in/pooja-kondagoli-12a3181b4/" target="_blank">
+                <asp:Image ID="Image1" runat="server" CssClass="icon" Height="60px" ImageUrl="~/img/linkedin.jpeg" Width="60px" />
+            </a>
+        </p>
+        <p>
+            <a href="mailto:poojakondagoli25@gmail.com" target="_blank"> 
+                <asp:Image ID="Image2" runat="server" CssClass="icon" Height="63px" ImageUrl="~/img/maill.png" Width="69px" />
+            </a>
+        </p>
+        <p>
+            <a href="https://github.com/Poojakondagoli"  target="_blank">
+                <asp:Image ID="Image3" runat="server" CssClass="icon" Height="68px" ImageUrl="~/img/gitthub.png" Width="78px" />
+            </a>
+        </p>
+    </aside>
+</form>
+
+
+<footer id="footer">
+    copyright @poojakondagoli
+</footer>
+</body>
+</html>
